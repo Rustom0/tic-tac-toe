@@ -8,6 +8,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. This is my firs
 - Basic game logic to check for winners or a draw
 - Responsive design
 - Reset and New Game functionality
+- AI mode to play against the computer.
 
 ## Technologies Used
 - HTML
@@ -17,7 +18,6 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. This is my firs
 ## Future Improvements
 - Online multiplayer functionality 
 - Improved UI/UX
-- AI mode to play against the computer
 
 ## Contributions
 Feel free to fork this repository, create a new branch, and submit a pull request for improvements!
