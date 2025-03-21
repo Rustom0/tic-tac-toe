@@ -50,6 +50,16 @@ body{
     color: #fff;
     border-radius: 0.4rem;
 }
+#play-vs-ai {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #414136da;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 0.4rem;
+    margin-left: 1rem;
+}
 #msg{
     color: rgb(83, 58, 58);
     font-size: 5vmin;
